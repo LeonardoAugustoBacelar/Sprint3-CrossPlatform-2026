@@ -11,7 +11,7 @@ Lucca Rosseto Rezende - RM 564180
 Guilherme Verrillo Peres - RM 563981
 
 REPOSITORIO GITHUB
-<COLAR AQUI O LINK DO REPOSITORIO ATUALIZADO>
+https://github.com/LeonardoAugustoBacelar/Sprint3-CrossPlatform-2026.git
 
 VIDEO DE DEMONSTRACAO (YOUTUBE, NAO LISTADO)
 <COLAR AQUI O LINK DO VIDEO>
