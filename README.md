@@ -263,7 +263,7 @@ Resultado da última execução: **8 casos, 8 aprovados, nenhum erro de console*
 
 ## Vídeo de demonstração
 
-Sprint 3: _(inserir o link do YouTube não listado antes da entrega)_
+Sprint 3: (https://youtu.be/XHbd9FCyxZY?si=5YxOI14HAEfyeXwa)
 
 ---
 
