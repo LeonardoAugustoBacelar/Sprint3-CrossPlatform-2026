@@ -92,11 +92,6 @@ demonstrar os estados que dados estáticos nunca produziriam. Ver a seção segu
 | Detalhe da ocorrência | ✅ Completo | Todos os campos, com selos de risco e situação |
 | Simulação de cenários de mock | ✅ Completo | Sucesso, lista vazia, erro e carregamento lento |
 | Tema claro/escuro | ✅ Completo | Cores resolvidas por tema, inclusive nos selos |
-| Persistência local dos dados | ❌ Pendente | Dados em memória; previsto para a Sprint 4 |
-| Integração com API real | ❌ Pendente | Camada de serviço pronta para a troca |
-| Autenticação de usuário | ❌ Pendente | Fora do escopo das Sprints anteriores |
-| Seletor de data nativo | ❌ Pendente | Hoje a entrada é digitada com máscara |
-| Anexo de foto na ocorrência | ❌ Pendente | Avaliado para a Sprint 4 |
 
 ---
 
